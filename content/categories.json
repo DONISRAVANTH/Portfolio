@@ -9,28 +9,35 @@
       "driveLink": "",
       "externalLinks": [],
       "displayOrder": 1,
-      "enabled": true
+      "enabled": false
     },
     {
-      "id": "projects",
-      "title": "Projects",
-      "description": "Engineering projects including the Low-Cost CNC Engraver fabricated during B.Tech. Showcases practical application of mechanical engineering skills.",
+      "id": "siemens-nx",
+      "title": "UG NX",
+      "description": "Designed 3D CAD models, assemblies, sheet metal components, surface models, and wiring harnesses in UG NX, with corresponding detailed 2D drawings",
       "thumbnail": "",
-      "images": [],
-      "driveLink": "",
+      "images": [
+        "https://drive.google.com/thumbnail?id=1Gnk7oXhscDFbK8JLjunwZR5zRVz4YsVQ&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1ERB1Oe9xFl887toB8J1S5Br1hcRtGR4t&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1DGfONjLTd6qEJO2TeH7FKczf7JiSU7PJ&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1w0tqjqyJcGy3lZwaoXvdjbvb3eJhOYtj&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1USAtnDDqzigv1NBmXPUWpz5_CsqHE30L&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1cAk0VvGxWh3wNr-I9sx7QX2KlHnfDUR6&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1ZjusEvosquVL3uQIEyS13PxCFZgZWN4T&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1GVvji5xXr4BUR06ZoIcwNxq39wGCtJIU&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1rHUPZU7wbbKX0PESJkMcXCfxDjzkxpFy&sz=w1000",
+        "https://drive.google.com/thumbnail?id=13Hl6wH2hDBbRIl5l1Mc6sOAtOtZ06O1X&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1fUWysBRBr4BApdQjuWjJje8d5HgA0jqf&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1R-ljzOBgmyEi3Lj_BlAfdsc85nGir5AD&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1s3_JkM4bsV8gdVoTvsKc5ItuIuMZTdLx&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1sJx7Ociw8lCwr5aezBN63p-nB8dyqMnE&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1nhnyAsdSz02dH6zLt8eQflePCMKHvuuI&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1jPjZrtGzW2hlci_qystHPq53j_ySYqOJ&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1ZSJBstBNW7JRdd0D26czs1iLyH2hmnyU&sz=w1000"
+      ],
+      "driveLink": "https://drive.google.com/drive/folders/1c5p1g9PiM3sFMeLSiAsh-nS06077EpO9?usp=sharing",
       "externalLinks": [],
       "displayOrder": 2,
-      "enabled": true
-    },
-    {
-      "id": "product-design",
-      "title": "Product Design",
-      "description": "Automotive and industrial product design work completed during internship at Pioneer Design and Engineering using UG-NX.",
-      "thumbnail": "",
-      "images": [],
-      "driveLink": "",
-      "externalLinks": [],
-      "displayOrder": 3,
       "enabled": true
     },
     {
@@ -38,8 +45,24 @@
       "title": "SolidWorks",
       "description": "Models and assemblies created using SolidWorks for various mechanical components and subassemblies.",
       "thumbnail": "",
+      "images": [
+        "https://drive.google.com/thumbnail?id=1pGG-VQfM9ui2oN7MMYAaVEAqmS9qwkXc&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1YV2bNU-tycq3F2MiB9hD5S5xdihYcvIi&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1jnXzr9lzPRfzljdUGkKWrW0vO2rFFpZv&sz=w1000",
+        "https://drive.google.com/thumbnail?id=10p8pMgpcLTQeFqEONtYoXWfbTD7uzP1s&sz=w1000"
+      ],
+      "driveLink": "https://drive.google.com/drive/folders/1frxUR-AYJGXj7dc8BIr6cWVUyBL1XZlI?usp=sharing",
+      "externalLinks": [],
+      "displayOrder": 3,
+      "enabled": true
+    },
+    {
+      "id": "autocad",
+      "title": "AutoCAD",
+      "description": "3D CAD models and detailed 2D drawings created using AutoCAD",
+      "thumbnail": "",
       "images": [],
-      "driveLink": "",
+      "driveLink": "https://drive.google.com/file/d/1dt-xUeTVHMJmEcbaPlPrvk3TA2vhASBD/view",
       "externalLinks": [],
       "displayOrder": 4,
       "enabled": true

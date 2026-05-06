@@ -12,14 +12,14 @@
       "title": "CATIA V5 Certification",
       "issuer": "CADDapp",
       "description": "Course completed certification on CATIA V5 by CADDapp",
-      "image": "",
+      "image": "https://drive.google.com/file/d/169eypXzvLhLBKR1MWUrrpILnqjAUgXru/preview",
       "driveLink": ""
     },
     {
       "title": "AutoCAD Certification",
       "issuer": "Digital CADD Solutions",
       "description": "Course completed certification on AutoCAD by Digital CADD Solutions",
-      "image": "",
+      "image": "https://drive.google.com/file/d/17oTfrISVBSuT5ZAWU1EV-fFeBdKQ2jrw/preview",
       "driveLink": ""
     },
     {
@@ -27,6 +27,13 @@
       "issuer": "University",
       "description": "2nd Prize certification in tech fest",
       "image": "",
+      "driveLink": ""
+    },
+    {
+      "title": "Full Stack Python",
+      "issuer": "Quality Thought",
+      "description": "Completed a comprehensive 6-month Full Stack Python\nDevelopment course.",
+      "image": "https://drive.google.com/file/d/1sF2PwcHt-GX8jebDfRl8HuxTiDdb_zZw/preview",
       "driveLink": ""
     }
   ]
