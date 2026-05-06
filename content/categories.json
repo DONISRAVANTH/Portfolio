@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "id": "cad-designs",
+      "title": "CAD Designs",
+      "description": "3D CAD models and detailed 2D drawings created using AutoCAD, CATIA, and SolidWorks. These designs demonstrate precision modeling and engineering principles.",
+      "thumbnail": "",
+      "images": [],
+      "driveLink": "",
+      "externalLinks": [],
+      "displayOrder": 1,
+      "enabled": true
+    },
+    {
+      "id": "projects",
+      "title": "Projects",
+      "description": "Engineering projects including the Low-Cost CNC Engraver fabricated during B.Tech. Showcases practical application of mechanical engineering skills.",
+      "thumbnail": "",
+      "images": [],
+      "driveLink": "",
+      "externalLinks": [],
+      "displayOrder": 2,
+      "enabled": true
+    },
+    {
+      "id": "product-design",
+      "title": "Product Design",
+      "description": "Automotive and industrial product design work completed during internship at Pioneer Design and Engineering using UG-NX.",
+      "thumbnail": "",
+      "images": [],
+      "driveLink": "",
+      "externalLinks": [],
+      "displayOrder": 3,
+      "enabled": true
+    },
+    {
+      "id": "solidworks",
+      "title": "SolidWorks",
+      "description": "Models and assemblies created using SolidWorks for various mechanical components and subassemblies.",
+      "thumbnail": "",
+      "images": [],
+      "driveLink": "",
+      "externalLinks": [],
+      "displayOrder": 4,
+      "enabled": true
+    }
+  ]
+}

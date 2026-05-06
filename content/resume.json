@@ -1,0 +1,58 @@
+{
+  "description": "My educational background and professional experience",
+  "education": [
+    {
+      "degree": "CAD/CAM – Mechanical Engineering",
+      "period": "2024 – 2026",
+      "institution": "Jawaharlal Nehru Technological University Kakinada (JNTUK)",
+      "description": "Currently pursuing M.Tech in CAD/CAM"
+    },
+    {
+      "degree": "Mechanical Engineering",
+      "period": "2023",
+      "institution": "Dhanekula Institute of Engineering and Technology",
+      "description": "Bachelor's degree in Mechanical Engineering"
+    },
+    {
+      "degree": "Diploma (Mechanical)",
+      "period": "2020",
+      "institution": "AANM & VVRSR Polytechnic",
+      "description": ""
+    },
+    {
+      "degree": "SSC",
+      "period": "2017",
+      "institution": "A Little Flower The Leader",
+      "description": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "Intern – Product Design (Automotive)",
+      "period": "04/2025 – 06/2025",
+      "company": "Pioneer Design and Engineering Pvt. Ltd., Bengaluru",
+      "points": [
+        "Completed a 2-month internship focused on Automotive Product Design using UG-NX",
+        "Worked on modeling, assembly, sheet metal, surface modeling, and wiring harness"
+      ]
+    },
+    {
+      "role": "Intern – Mechanical",
+      "period": "During Diploma (6 months)",
+      "company": "Lakshmi Chaitanya Alloys, Vijayawada",
+      "points": [
+        "Gained practical experience in mechanical systems and processes"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Low-Cost CNC Engraver Fabrication",
+      "tag": "B.Tech project",
+      "points": [
+        "Designed and optimized a budget-friendly CNC engraving machine",
+        "Showcased precision engineering and cost-effective fabrication techniques"
+      ]
+    }
+  ]
+}
