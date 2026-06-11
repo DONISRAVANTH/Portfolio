@@ -49,7 +49,8 @@
         "https://drive.google.com/thumbnail?id=1pGG-VQfM9ui2oN7MMYAaVEAqmS9qwkXc&sz=w1000",
         "https://drive.google.com/thumbnail?id=1YV2bNU-tycq3F2MiB9hD5S5xdihYcvIi&sz=w1000",
         "https://drive.google.com/thumbnail?id=1jnXzr9lzPRfzljdUGkKWrW0vO2rFFpZv&sz=w1000",
-        "https://drive.google.com/thumbnail?id=10p8pMgpcLTQeFqEONtYoXWfbTD7uzP1s&sz=w1000"
+        "https://drive.google.com/thumbnail?id=10p8pMgpcLTQeFqEONtYoXWfbTD7uzP1s&sz=w1000",
+        ""
       ],
       "driveLink": "https://drive.google.com/drive/folders/1frxUR-AYJGXj7dc8BIr6cWVUyBL1XZlI?usp=sharing",
       "externalLinks": [],
@@ -65,6 +66,23 @@
       "driveLink": "https://drive.google.com/file/d/1dt-xUeTVHMJmEcbaPlPrvk3TA2vhASBD/view",
       "externalLinks": [],
       "displayOrder": 4,
+      "enabled": true
+    },
+    {
+      "id": "onshape",
+      "title": "onshape",
+      "description": "3D CAD models created using onshape",
+      "thumbnail": "",
+      "images": [
+        "https://drive.google.com/thumbnail?id=1ypEkhf-326dJ3m4VYTx-219nJrSAYkFc&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1b4otYMDZt4WTrKTpmeeYPL7bbs_YOwWO&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1E8RTJJyDGkiNXvbR5LjxDjQ-VTx0OKa1&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1qSY7P9sXBsx_sX2t21W8U8i4N11xdA28&sz=w1000",
+        "https://drive.google.com/thumbnail?id=1eJmFOIN6-vNZZ8BpbKixUU8mJKGrznPv&sz=w1000"
+      ],
+      "driveLink": "",
+      "externalLinks": [],
+      "displayOrder": 5,
       "enabled": true
     }
   ]
