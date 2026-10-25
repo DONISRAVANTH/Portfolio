@@ -3,26 +3,26 @@
   "education": [
     {
       "degree": "CAD/CAM – Mechanical Engineering",
-      "period": "2024 – 2026",
+      "period": "2026",
       "institution": "Jawaharlal Nehru Technological University Kakinada (JNTUK)",
-      "description": "Currently pursuing M.Tech in CAD/CAM"
+      "description": "M.Tech in CAD/CAM"
     },
     {
       "degree": "Mechanical Engineering",
       "period": "2023",
       "institution": "Dhanekula Institute of Engineering and Technology",
-      "description": "Bachelor's degree in Mechanical Engineering"
+      "description": "B.Tech in Mechanical Engineering"
     },
     {
-      "degree": "Diploma (Mechanical)",
+      "degree": "Mechanical Engineering (Diploma)",
       "period": "2020",
-      "institution": "AANM & VVRSR Polytechnic",
-      "description": ""
+      "institution": "A.A.N.M. & V.V.R.S.R. Polytechnic, Gudlavalleru",
+      "description": "Diploma in Mechanical Engineering"
     },
     {
       "degree": "SSC",
       "period": "2017",
-      "institution": "A Little Flower The Leader",
+      "institution": "A Little Flower The Leader (E.M.) High School",
       "description": ""
     }
   ],
@@ -47,11 +47,18 @@
   ],
   "projects": [
     {
-      "title": "Low-Cost CNC Engraver Fabrication",
+      "title": "Fabrication of a Low-Cost Mini CNC Engraver",
       "tag": "B.Tech project",
       "points": [
         "Designed and optimized a budget-friendly CNC engraving machine",
         "Showcased precision engineering and cost-effective fabrication techniques"
+      ]
+    },
+    {
+      "title": "Hybrid Quantum Classical Neural Network for Machine Failure Prediction in Industrial Predictive  Maintenance",
+      "tag": "M.Tech project",
+      "points": [
+        "Designed and implemented a hybrid quantum-classical neural network and compared its predictive performance with a classical artificial neural network for machine failure prediction."
       ]
     }
   ]
